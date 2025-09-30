@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c2888b54-98c4-4c63-b1e8-c93d56f10676"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cc3f1cb6-8b01-4c5d-8a02-c200c30df679",
+    "website": "teaching-marguerite-de-navarres-heptameron"
+  },
+  "course_title": "Teaching Marguerite de Navarre's Heptam\u00e9ron",
+  "hide_download": true,
+  "course_description": "This site is designed for scholars and students interested in exploring Marguerite de Navarre\u2019s *Heptam\u00e9ron* to help delve more deeply into this compelling writer and her texts. Resources are compiled on the site to allow easy access to information about Marguerite's writings and her substantial\u00a0influence in\u00a0debates about religion and women in sixteenth-century France; these include extensive biographies, summaries, full texts, images and media, teaching resources, films, and a space to share ideas.\n\nThe website is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-3002",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "teaching-marguerite-de-navarres-heptameron"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Other Video",
+    "Image Gallery"
+  ],
+  "site_uid": "66b0ae44-c380-473a-8bfb-ac38d574f0ce",
+  "site_short_id": "res.21g-3002-fall-2023",
+  "site_url_path": "courses/res-21g-3002-teaching-marguerite-de-navarres-heptameron-fall-2023"
+}
