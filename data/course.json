@@ -29,7 +29,7 @@
   },
   "course_title": "Teaching Marguerite de Navarre's Heptam\u00e9ron",
   "hide_download": true,
-  "course_description": "This site is designed for scholars and students interested in exploring Marguerite de Navarre\u2019s *Heptam\u00e9ron* to help delve more deeply into this compelling writer and her texts. Resources are compiled on the site to allow easy access to information about Marguerite's writings and her substantial\u00a0influence in\u00a0debates about religion and women in sixteenth-century France; these include extensive biographies, summaries, full texts, images and media, teaching resources, films, and a space to share ideas.\n\nThe website is published under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.",
+  "course_description": "This site is designed for scholars and students interested in exploring Marguerite de Navarre\u2019s *Heptam\u00e9ron* to help delve more deeply into this compelling writer and her texts. Resources are compiled on the site to allow easy access to information about Marguerite's writings and her substantial\u00a0influence in\u00a0debates about religion and women in sixteenth-century France; these include extensive biographies, summaries, full texts, images and media, teaching resources, films, and a space to share ideas.\n\nThe website is published under a {{% resource_link \"cc39a2f9-ce0e-4931-94a7-cf547d423d89\" \"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA) International\" %}} license.",
   "department_numbers": [
     "21G"
   ],
@@ -39,7 +39,6 @@
     "content": "",
     "website": "teaching-marguerite-de-navarres-heptameron"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Other Video",
     "Image Gallery"
